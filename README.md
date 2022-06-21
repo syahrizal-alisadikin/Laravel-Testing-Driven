@@ -6,3 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+* git clone https://github.com/syahrizal-alisadikin/Laravel-Testing-Driven.git
+* masuk ke project laravel
+* jalankan composer install
+* setting .env konek ke database
+* jalankan php artisan migrate
+* php artisan --filter RegistrationUserTest (test user register)
